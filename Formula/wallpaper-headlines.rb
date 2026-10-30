@@ -1,8 +1,8 @@
 class WallpaperHeadlines < Formula
   desc "Menu bar app that puts today's news front page on your desktop"
   homepage "https://github.com/william-ragnarsson/wallpaper-headlines"
-  url "https://github.com/william-ragnarsson/wallpaper-headlines/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "eb1387cb12056371cd4d16330427330397e29956a9498ba9862daa05a6e705f4"
+  url "https://github.com/william-ragnarsson/wallpaper-headlines/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "a347cbb7a26550da7f63da01c9a54ef3afe0106a51aafa029839276da91b5fd1"
   license "MIT"
   head "https://github.com/william-ragnarsson/wallpaper-headlines.git", branch: "main"
 
